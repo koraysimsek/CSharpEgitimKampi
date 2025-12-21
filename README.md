@@ -42,7 +42,7 @@ Veritabanı bağlantısı kurarak SQL sorguları çalıştırdım. Kullanıcın�
 
 Bu projede CRUD işlemlerini içeren kapsamlı bir panel geliştirdim. Veritabanı üzerinden ekleme, silme, güncelleme ve listeleme işlemleri yaparak gerçek hayata yakın bir uygulama deneyimi kazandım.
 
-## 🔹 Proje 11 | Sipariş ve Menü Yönetim Sistemi 🧾
+## 🔹 Proje 11 | Travel Projesi İstatistik Sayfası 📊
 
 <img width="747" height="479" alt="image" src="https://github.com/user-attachments/assets/e5630d71-430d-4aa1-a030-77dd2f5b4e54" />
 
