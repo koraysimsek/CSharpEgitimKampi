@@ -41,3 +41,12 @@ Veritabanı bağlantısı kurarak SQL sorguları çalıştırdım. Kullanıcın�
 ## 🔹 Proje 10 | Sipariş ve Menü Yönetim Sistemi 🧾
 
 Bu projede CRUD işlemlerini içeren kapsamlı bir panel geliştirdim. Veritabanı üzerinden ekleme, silme, güncelleme ve listeleme işlemleri yaparak gerçek hayata yakın bir uygulama deneyimi kazandım.
+
+## 🔹 Proje 11 | Sipariş ve Menü Yönetim Sistemi 🧾
+
+<img width="747" height="479" alt="image" src="https://github.com/user-attachments/assets/e5630d71-430d-4aa1-a030-77dd2f5b4e54" />
+
+Bu çalışmada, Entity Framework altyapısını kullanarak bir seyahat veritabanındaki kayıtları analiz eden ve sonuçları görsel bir panel üzerinden sunan bir istatistik uygulaması geliştirdim. Windows Forms tabanlı olarak tasarlanan bu uygulama, verileri anlık şekilde işleyerek kullanıcıya anlaşılır ve dinamik bir biçimde aktarmayı hedeflemektedir.
+
+Uygulama kapsamında; sistemde kayıtlı olan lokasyonların toplam sayısı, genel kapasite bilgileri ve rehber sayıları gibi temel veriler hesaplanmaktadır. Bunun yanı sıra, kapasite ve fiyat ortalamaları gibi istatistiksel analizler kullanıcıya sunulmaktadır. Şehir veya ülke bazında detaylı filtreleme yapılarak belirli bölgelere ait veriler ayrı ayrı incelenebilmektedir. En yüksek kapasiteye ve fiyata sahip destinasyonlar tespit edilerek öne çıkarılmakta, ayrıca belirli bir rehberin yönettiği tur sayısı kolayca raporlanabilmektedir.
+
